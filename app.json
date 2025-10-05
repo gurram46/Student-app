@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "student-app",
+    "slug": "student-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#D4AF37",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.sande.studentapp"
+    }
+  }
+}
