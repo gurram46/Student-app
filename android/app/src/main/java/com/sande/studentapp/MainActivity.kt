@@ -1,4 +1,4 @@
-package com.studentapp
+package com.sande.studentapp
 
 import android.os.Build
 import android.os.Bundle
